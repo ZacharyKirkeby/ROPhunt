@@ -1,2 +1,2 @@
 # ROPhunt
-GDP Plugin for ROP chain identification
+GDB Plugin for ROP chain identification
